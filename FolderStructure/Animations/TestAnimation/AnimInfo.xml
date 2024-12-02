@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnimInfo>
+  <AnimElement>
+    <EmoteCommand _emoteChatCommand = "twist" _emoteAnimationTag = "Twist" _emoteChatMessage = " is Twisting"/>
+    <EmoteProperties _canLoop = "false"  _facialExpression = "happy"/>
+    <EmotePath _path = "somepath/TwistStart.assetBundle"/>
+  </AnimElement>
+  <AnimElement>
+    <EmoteProperties _canLoop = "true"  _facialExpression = "pissed"/>
+    <EmotePath _path = "somepath/TwistLoop.assetBundle"/>
+  </AnimElement>
+</AnimInfo>
